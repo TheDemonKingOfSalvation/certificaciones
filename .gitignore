@@ -1,0 +1,5 @@
+# Publicar únicamente los PDFs de esta carpeta y la documentación del repositorio.
+/*
+!/*.pdf
+!/README.md
+!/.gitignore
